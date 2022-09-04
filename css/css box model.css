@@ -1,0 +1,84 @@
+div{
+    width: 300x;
+    height: 400x;
+    float: left;
+    border: 1px solid red;
+    border:/*solid dotted
+    border: dashed*/
+    /*
+    border-left:
+    border-top:
+    border-right:
+    border-bottom:
+     */
+}
+img {
+    width: 100%;
+    max-width: 100%;
+}
+margin: 10px; 15px 20px 25px
+    top first, clock
+/*
+margin-top
+margin-right
+margin-left
+margin-bottom
+
+padding: 10px 15px;
+ top first, clock
+ */
+
+box-sizing: border-box;
+
+<div>
+ width: 25%;
+ width: calc(25%-30px);
+
+box-shadow: 10px 15px 5px, red;
+
+border-radius: 6px;
+
+div:hover{
+       transform: rotate(45degree);
+       transform: scale(1.5);
+       transition: all 300ms
+    <div>
+    background-color: green;
+    </div>
+
+}
+<div id="box 6">
+
+#box 6{
+ background-color: deeppink;
+}
+
+<div class="box-orange">
+
+.box-orange{
+    background-color: organge;
+                       }
+<div class="box special">
+ .box-special{
+    background-color: pink;
+                        }
+<div class="dp">
+               <p>
+               p{
+
+                   div p{}
+                   color: green;
+               }
+body div p{
+    }
+.pc{
+    color:pink;
+    }
+div .pc{
+    }
+.dp.pc{
+    }
+#pid{}
+body. dp#id{
+
+}
